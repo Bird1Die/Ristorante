@@ -136,9 +136,7 @@ public class Receipt {
 	    	out.print(" ".repeat(SPACE)+descrizione);
 	    	out.print(" ".repeat(LEN_MAX-qnt.length()-SPACE-descrizione.length()-importo.length())+ importo);
 	    	out.println();
-	    	double totale = 0;
 	    	for(DishOrdered dish : table.getTable()) {
-	    		totale += dish.getPrice()*dish.getQuantity();
 	    		String quantity = String.valueOf(dish.getQuantity());
 	    		out.print(" ".repeat(3-quantity.length())+quantity+" ".repeat(SPACE));
 	    		if(dish.getNome().length()<FOOD_SPACE) {

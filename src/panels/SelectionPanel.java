@@ -2,8 +2,6 @@ package panels;
 
 import javax.swing.JPanel;
 
-import interfaces.Panels;
-
 /**
  * A {@code SelectionPanel} is used to contain all other panels \
  * and with his {@code CardLayout} choose which one to show
