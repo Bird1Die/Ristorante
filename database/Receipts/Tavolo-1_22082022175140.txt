@@ -1,0 +1,19 @@
+            NOME RISTORANTE             
+              XXXXXXXX srl              
+             Via XXXXXXXXX              
+               CAP CITTA'               
+            IVA: XXXXXXXXXXX            
+               06 XXXXXXX               
+                     22-08-2022 17:51:40
+                 CONTO                  
+----------------------------------------
+Qnt   Descrizione                Importo
+  1   Icytivu                      45.9€
+  1   Burrata al pistacchio         7.0€
+----------------------------------------
+IMPORTO EURO                      52,90€
+CONTANTI                          60,00€
+RESTO                              7,10€
+----------------------------------------
+Tavolo - 1
+          GRAZIE E ARRIVEDERCI          

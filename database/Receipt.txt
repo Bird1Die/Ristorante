@@ -1,0 +1,7 @@
+6:
+Olive ascolane;  20,00; 4; true
+Bruschette al pomodoro;  55,00; 3; true
+Bucatini all'Amatriciana;  11,00; 2; true
+Spaghetti alla carbonara;  12,00; 3; true
+Pesce;  13,00; 2; true
+

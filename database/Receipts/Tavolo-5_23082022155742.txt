@@ -1,0 +1,18 @@
+            NOME RISTORANTE             
+              XXXXXXXX srl              
+             Via XXXXXXXXX              
+               CAP CITTA'               
+            IVA: XXXXXXXXXXX            
+               06 XXXXXXX               
+                     23-08-2022 15:57:42
+                 CONTO                  
+----------------------------------------
+Qnt   Descrizione                Importo
+  2   Icytivu                      91.8€
+----------------------------------------
+IMPORTO EURO                      91,80€
+CONTANTI                         100,00€
+RESTO                              8,20€
+----------------------------------------
+Tavolo - 5
+          GRAZIE E ARRIVEDERCI          

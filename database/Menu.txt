@@ -1,0 +1,11 @@
+Antipasti:
+Cartine al pomodoro; 15.0
+Olive ascolane; 25.0
+Primi:
+Bucatini all'Amatriciana; 11.0
+Spaghetti alla carbonara; 12.0
+Secondi:
+Pesce; 13.0
+Contorni:
+Dolci:
+Bevande:

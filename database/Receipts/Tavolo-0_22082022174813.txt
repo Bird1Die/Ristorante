@@ -1,0 +1,18 @@
+            NOME RISTORANTE             
+              XXXXXXXX srl              
+             Via XXXXXXXXX              
+               CAP CITTA'               
+            IVA: XXXXXXXXXXX            
+               06 XXXXXXX               
+                     22-08-2022 17:48:13
+                 CONTO                  
+----------------------------------------
+Qnt   Descrizione                Importo
+  1   Burrata al pistacchio         7.0€
+----------------------------------------
+IMPORTO EURO                       0,00€
+CONTANTI                           7,00€
+RESTO                              0,00€
+----------------------------------------
+Tavolo - 0
+          GRAZIE E ARRIVEDERCI          
